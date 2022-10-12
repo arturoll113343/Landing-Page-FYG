@@ -45,6 +45,7 @@ Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) fr
 - María Itzel Marroquin Ramirez
 - Ramses Martinez
 --alan marin
+--Lopez Lopez Arturo
 
 ## Image Attribution
 
